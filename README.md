@@ -63,14 +63,6 @@ Installation
 
 
 
-
-Clone the Repository:
-
-git clone https://github.com/your-username/real-estate-data-analysis.git
-cd real-estate-data-analysis
-
-
-
 Set Up the Database:
 
 
